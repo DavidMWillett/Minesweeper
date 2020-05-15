@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Minesweeper.iml" filepath="$PROJECT_DIR$/.idea/modules/Minesweeper.iml" group="Minesweeper" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Minesweeper/task/Minesweeper-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Minesweeper/task/Minesweeper-task.iml" group="Minesweeper/Minesweeper-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Minesweeper/task/Minesweeper-task_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Minesweeper/task/Minesweeper-task_main.iml" group="Minesweeper/Minesweeper-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Minesweeper/task/Minesweeper-task_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Minesweeper/task/Minesweeper-task_test.iml" group="Minesweeper/Minesweeper-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Getting letters from the Alphabet/Problems-Getting_letters_from_the_Alphabet.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Getting letters from the Alphabet/Problems-Getting_letters_from_the_Alphabet.iml" group="Minesweeper/Problems-Getting_letters_from_the_Alphabet" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Getting letters from the Alphabet/Problems-Getting_letters_from_the_Alphabet_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Getting letters from the Alphabet/Problems-Getting_letters_from_the_Alphabet_main.iml" group="Minesweeper/Problems-Getting_letters_from_the_Alphabet" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Getting letters from the Alphabet/Problems-Getting_letters_from_the_Alphabet_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Getting letters from the Alphabet/Problems-Getting_letters_from_the_Alphabet_test.iml" group="Minesweeper/Problems-Getting_letters_from_the_Alphabet" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util.iml" group="Minesweeper/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_main.iml" group="Minesweeper/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_test.iml" group="Minesweeper/util" />
+    </modules>
+  </component>
+</project>

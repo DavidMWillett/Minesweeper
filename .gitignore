@@ -1,0 +1,7 @@
+# Project exclude paths
+/.gradle/
+/Minesweeper/task/build/
+/Minesweeper/task/out/
+/Minesweeper/task/out/production/classes/
+/Problems/Getting letters from the Alphabet/out/
+/Problems/Getting letters from the Alphabet/out/production/classes/
